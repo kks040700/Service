@@ -1,2 +1,2 @@
 # Service
-this is website for helpers with their vehicles issues
+This is website for helpers with their vehicles issues
